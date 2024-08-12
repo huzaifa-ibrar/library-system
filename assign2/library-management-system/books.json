@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "66a8d3cb0d78e79ffdb921d7"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scotty ",
+  "ISBN": "9780743273565",
+  "isbn": "1111"
+},
+{
+  "_id": {
+    "$oid": "66a8d3cb0d78e79ffdb921d8"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "ISBN": "9780451524935"
+},
+{
+  "_id": {
+    "$oid": "66a8d3cb0d78e79ffdb921d9"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "ISBN": "9780061120084"
+},
+{
+  "_id": {
+    "$oid": "66a8d3cb0d78e79ffdb921da"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "ISBN": "9780316769488"
+},
+{
+  "_id": {
+    "$oid": "66a8d3cb0d78e79ffdb921db"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "ISBN": "9780547928227"
+},
+{
+  "_id": {
+    "$oid": "66a8d7ff5af3769a20b4cafa"
+  },
+  "title": "Charlie",
+  "author": "bob",
+  "ISBN": "435",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b8d55aefd8d0d6dc93f4ba"
+  },
+  "title": "happy feet",
+  "author": "ib",
+  "isbn": "2255",
+  "__v": 0
+}]
